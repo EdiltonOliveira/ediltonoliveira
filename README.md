@@ -21,3 +21,8 @@ My GitHub stats
  <a href="https://www.linkedin.com/in/edilton-oliveira-b64aaa298/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
 </div>
 
+
+### Freelancers
+2023: Innovation and Solutions in Nanotechnology ([access here](https://isnano.com.br/))
+- Development of a landing page for Startup ISnano.
+
