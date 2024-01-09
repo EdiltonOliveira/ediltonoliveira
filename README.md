@@ -1,6 +1,3 @@
-
-
-
 I'm passionate about crafting solutions through coding, bringing projects to life from conception to implementation
 
 - Web Development FullStack.
